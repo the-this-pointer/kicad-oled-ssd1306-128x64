@@ -31,8 +31,11 @@ To add it to pcbnew:
 * Append with Wizard
 * navigate to `SSD1306.pretty`
 
+### GME12864-80
 
+The chinneese OLED 128x64 1.3inch screen with 3D model added to repository. Just be warned the dimensions of footprint are based on 0.96 inch module.
 
 ### Further information may be found at https://ownsmarthome.de
 
 _The links marked with an asterisk (*) are commission links or advertising._
+
