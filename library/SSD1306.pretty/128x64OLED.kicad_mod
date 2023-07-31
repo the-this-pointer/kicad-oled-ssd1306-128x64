@@ -43,12 +43,12 @@
   (pad "2" thru_hole oval (at -1.08 -10.6 90) (size 2 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 112adecb-7ef1-40a7-a5f8-7c5dd7534e12))
   (pad "3" thru_hole oval (at 1.46 -10.6 90) (size 2 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ddd19d6c-14fb-437d-aaec-e8a1337b9157))
   (pad "4" thru_hole oval (at 4 -10.6 90) (size 2 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 6af85272-bfb4-473f-afd5-8135fe27094c))
-  (model "../SSD1306.3dshapes/OLED I2C 0.96 Inch Display.step" hide
+  (model "${THISPTR_LBR_DIR}/kicad-oled-ssd1306-128x64/library/SSD1306.3dshapes/OLED I2C 0.96 Inch Display.step" hide
     (offset (xyz 0.21 -1.25 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "../SSD1306.3dshapes/OLED I2C 0.96 Inch Display With Headers.step"
+  (model "${THISPTR_LBR_DIR}/kicad-oled-ssd1306-128x64/library/SSD1306.3dshapes/OLED I2C 0.96 Inch Display With Headers.step"
     (offset (xyz 0.21 -1.25 11))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
