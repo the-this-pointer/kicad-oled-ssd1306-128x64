@@ -38,6 +38,7 @@ The chinneese OLED 128x64 1.3inch screen with 3D model added to repository. Just
 ### 3d Model
 
 The 3d model for 1.3 inch OLED screen is taken from [here](https://grabcad.com/library/oled-i2c-1-3-inch-display-1)
+, Also I added a new 3d model for 0.96 inch version based on [this](https://grabcad.com/library/ssd1306-oled-display-128x64-1)
 
 ### Further information may be found at https://ownsmarthome.de
 
